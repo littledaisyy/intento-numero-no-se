@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(38, 126, 126);
+}
+
+.box{
+    background-color: blue;
+    height: 20vh;
+}
+
